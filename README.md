@@ -21,7 +21,7 @@ Face_Mask_Detection
 python setup.py build develop
 ```
 
-2. Prepare datasets. Our dataset is downloaded from [AIZOOTech](https://github.com/AIZOOTech/FaceMaskDetection). And we convert it into Pascal Voc format for convenience. Then we split the data into train and val data set. We also correct some wrong label in the original data set. The final processed data is uploaded on [Google drive]().
+2. Prepare datasets. Our dataset is downloaded from [AIZOOTech](https://github.com/AIZOOTech/FaceMaskDetection). And we convert it into Pascal Voc format for convenience. Then we split the data into train and val data set. We also correct some wrong label in the original data set. The final processed data is uploaded on [Google drive](https://drive.google.com/drive/folders/1dlnjIga4JjD4GXDnc03rUmdjo7vDoB8N?usp=sharing).
 3. Link dataset path to Face_Mask_Detection/datasets/facemask
 
 ```
@@ -67,4 +67,4 @@ Learn more at Detectron2's [documentation](https://detectron2.readthedocs.org).
 
 ## Pre-trained Model
 
-We also provide our trained model on [Google drive]() so that you can directly download it to make demo.
+We also provide our trained model on [Google drive](https://drive.google.com/drive/folders/1sdeMCcbZPHP2wsz8-8kRL6WQ6rMQNgCN?usp=sharing) so that you can directly download it to make demo.
